@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="05-algorithms-and-problem-solving-level-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="P01_MultiplicationTableFrom1To10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P02_PrintAllPrimeNumbers1ToN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P03_PerfectNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P04_PerfectNumberFrom1ToN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P05_PrintDigitsInAReversedOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P06_SumOfDigits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P07_ReverseNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P08_DigitFrequency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P09_DigitFrequency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P10_PrintDigitsInOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P11_PalindromeNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P12_InvertedNumberPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P13_NumberPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P14_InvertedLetterPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P15_LetterPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P16_AllWordsFromAAAToZZZ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P17_GuessA3LetterPassword.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P18_EncryptAndDecryptText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P19_Random3NumbersFrom1To10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P20_RandomSmallLetterCapitalLetterSpecialCharacterDigit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P21_GenerateKeys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P22_RepeatedElementsCountInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P23_FillArrayWithRandomNumbersFrom1To100.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P24_MaxOfRandomArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P25_MinOfRandomArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P26_SumOfRandomArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P27_AverageOfRandomArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P28_CopyArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P29_CopyOnlyPrimeNumbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P30_SumOf2ArraysToAThirdOne.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P31_ShuffleOrderedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P32_CopyArrayInReverseOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P33_FillArrayWithKeys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P34_ReturnNumberIndexInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P35_CheckNumberInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P36_AddArrayElementSimiDynamic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P37_CopyArrayUsingAddArrayElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P38_CopyOddNumbersToANewArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P39_CopyPrimeNumbersToANewArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P40_CopyDistinctNumbersToArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P41_IsPalindromArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P42_CountOddNumbersInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P43_CopyEvenNumbersInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P44_CountPositiveNumbersInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P45_CountNegativeNumbersInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P46_MyABS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P47_MyRound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P48_MyFloor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P49_MyCeil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P50_MySqrt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
