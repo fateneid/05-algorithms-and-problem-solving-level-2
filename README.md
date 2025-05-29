@@ -1,1 +1,1 @@
-# 05-algorithms-and-problem-solving-level-2
+# 05-aps-lvl2
